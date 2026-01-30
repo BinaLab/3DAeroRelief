@@ -33,7 +33,7 @@ The dataset is organized into 8 distinct areas, along with configuration files f
 The dataset classifies points into distinct semantic categories (e.g., Undamaged Building, Damaged Building, Background). Refer to labels.txt for the complete list of class mappings.
 
 ## License
-- **Dataset**: Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the data, provided you give appropriate credit.
+- **Dataset**: Licensed under CC0. You are free to share and adapt the data, provided you give appropriate credit.
 - **Code**: The provided utility scripts are licensed under the MIT License.
 
 ## Citation

@@ -1,0 +1,5 @@
+'Building-Damage': (230, 25, 75)  	
+'Building-No-Damage': (70, 240, 240)
+'Road': (255,255,25)                 
+'Tree': (0,128,0)                   
+'Background': (0,0,0)

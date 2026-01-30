@@ -73,7 +73,7 @@ The dataset classifies points into distinct semantic categories. The merging scr
 | 3 | Road | (255, 255, 25) |
 | 4 | Tree | (0, 128, 0) |
 
-Refer to labels.txt for the source mapping configuration.
+Refer to `labels.txt` for the source mapping configuration.
 
 # License
 - **Dataset**: Licensed under CC0. You are free to share and adapt the data, provided you give appropriate credit.

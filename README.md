@@ -83,6 +83,16 @@ Refer to `labels.txt` for the source mapping configuration.
 
 # Citation
 If you use this dataset in your research, please cite our paper.
-
+```
+@misc{le20253daerorelief3dbenchmarkuav,
+      title={3DAeroRelief: The first 3D Benchmark UAV Dataset for Post-Disaster Assessment}, 
+      author={Nhut Le and Ehsan Karimi and Maryam Rahnemoonfar},
+      year={2025},
+      eprint={2509.11097},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.11097}, 
+}
+```
 # Contact
 For questions regarding the dataset or the paper, please open an issue in this repository or contact the corresponding author at: maryam@lehigh.edu

@@ -1,4 +1,8 @@
 # 3DAeroRelief: The First 3D Benchmark UAV Dataset for Post-Disaster Assessment
+<!-- [![Project](https://img.shields.io/badge/Project-Website-blue)](YOUR_PROJECT_WEBSITE_URL) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2509.11097-b31b1b.svg)](https://arxiv.org/abs/2509.11097)
+[![BibTeX](https://img.shields.io/badge/BibTeX-Citation-green)](#citation)
+
 3DAeroRelief is a high-resolution 3D point cloud dataset designed to benchmark semantic segmentation algorithms in post-disaster scenarios.
 
 ![3DAeroRelief Dataset Examples](images/1.png)

@@ -2,6 +2,7 @@
 <!-- [![Project](https://img.shields.io/badge/Project-Website-blue)](YOUR_PROJECT_WEBSITE_URL) -->
 [![arXiv](https://img.shields.io/badge/arXiv-2509.11097-b31b1b.svg)](https://arxiv.org/abs/2509.11097)
 [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-green)](#citation)
+[![Dataset](https://img.shields.io/badge/Dataset-Dropbox-0061FF?logo=dropbox&logoColor=white)](https://www.dropbox.com/scl/fo/591kalyu9x3hea0vxqota/AC6iCldjaaDgy0m4gLALqFs?rlkey=we9vlfigv720laws6a04fybfz&st=2t6xwj98&dl=0)
 
 3DAeroRelief is a high-resolution 3D point cloud dataset designed to benchmark semantic segmentation algorithms in post-disaster scenarios.
 
